@@ -25,4 +25,5 @@ print("Length of array[0] := {}".format(len(a[0])))
 print("Length of array[0] := {}".format(len(a[0][1])))
 
 print("----------------------------------")
+# numpy array slicing
 print(a[:, 1, 3])
