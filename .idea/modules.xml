@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/numpy-ndarray.iml" filepath="$PROJECT_DIR$/.idea/numpy-ndarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../opencv-examples/.idea/opencv-examples.iml" filepath="$PROJECT_DIR$/../opencv-examples/.idea/opencv-examples.iml" />
     </modules>
   </component>
 </project>
